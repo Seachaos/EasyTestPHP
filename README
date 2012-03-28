@@ -1,8 +1,2 @@
 You can use "Test.php" this class to test PHP.
 It's easy just look "index.php" :)
-
-
-<div style="background:#FFF; margin:30px auto; width:800px; border:1px #CCC solid; padding:10px;"><div style="color:#009;">test case &raquo; testOne</div><div style="color:#009;">&nbsp;&nbsp;&nbsp;&nbsp;Done. 0.12 Millisecond</div><div style="color:#009;">test case &raquo; testTwo</div><div style="color:#009;">&nbsp;&nbsp;&nbsp;&nbsp;Done. 0.881 Millisecond</div><h1>Total Test Function: 2</h1>
-all test asserts : 100 <br /><div style="background:#0A0;font-size:2em; padding:10px; margin:10px;">
-	All test assert: 100 Pass :)
-</div></div>
